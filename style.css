@@ -46,7 +46,7 @@ a {
 
 .background {
   background-image: url("image-neverness-to-everness.jpeg");
-  background-size:cover;
+  background-size: 85% auto;
   background-position: center top;
   background-repeat: no-repeat;
   transform: none;
